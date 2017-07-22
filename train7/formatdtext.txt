@@ -1,0 +1,9 @@
+Short version: We use these basic terms throughout the agreement, and they have specific meanings. 
+You should know what we mean when we use each of the terms. There's not going to be a test on it, 
+but it's still useful information.
+“Content” refers to content featured or displayed through the Website, including without 
+limitation text, data, articles, images, photographs, graphics, software, applications, designs, 
+features, and other materials that are available on the Website or otherwise available through the 
+Service. "Content" also includes Services. “User-Generated Content” is Content, written or 
+otherwise, created or uploaded by our Users. “Paid Content” is Content only available to Users 
+who are participating in a payment plan, including private repositories.
